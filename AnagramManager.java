@@ -1,6 +1,4 @@
-// Riley Flarity CS 145 Section 9am
-// Programming Assignment #5, 05/09/17
-//
+
 // This program takes a word and then builds the list of other possible
 // words out of the letter by letter combination and outputs to the user
 
