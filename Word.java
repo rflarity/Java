@@ -1,6 +1,4 @@
-// Riley Flarity CS 145 Section 9am
-// Programming Assignment #5, 05/09/17
-//
+
 // This word class is for the Anagram Manager to utilize
 // Handles a single word and is comparable to itself
 // Uses a comparator to overload compareTo
