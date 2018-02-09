@@ -1,6 +1,4 @@
-// Riley Flarity CS 145 Section 9am
-// Programming Assignment #4, 05/04/17
-//
+
 // This program is for the grammar main to utilize
 // Build a sentence and uses recursion to do so efficiently
 
