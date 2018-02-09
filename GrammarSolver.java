@@ -57,9 +57,9 @@ public class GrammarSolver {
 		if (sym.equals(null)) throw new IllegalArgumentException();
 		// initialize with user input
 		if (contains(sym)) {
-			String s1 = map.get(sym);  						// long pile of text must refine
-			if (s1.contains("|")) {								// if the line has a | pipe
-				parts = s1.split("[|]");						// fill up the String[]
+			String s1 = map.get(sym);  				// long pile of text must refine
+			if (s1.contains("|")) {					// if the line has a | pipe
+				parts = s1.split("[|]");			// fill up the String[]
 				s1 = parts[rand.nextInt(parts.length)]; 	// random member of array
 			}
 			// Add everything to a list with scanner
